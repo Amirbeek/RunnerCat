@@ -29,7 +29,7 @@ It animates real-time **CPU and GPU** usage through fun icons — a **cat** for 
 
 ## 📥 Download
 
-**🟢 [Download RunnerCat for Windows](https://github.com/Amirbeek/RunnerCat/raw/main/release/RunnerCat.exe)**  
+**🟢 [Download RunnerCat for Windows](https://github.com/Amirbeek/RunnerCat/raw/main/dist/RunnerCat.exe)**  
 _No installation needed — just download and double-click._
 
 ---
